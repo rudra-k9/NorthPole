@@ -2,3 +2,16 @@ html {
   height: 100%;
   width: 100%;
 }
+
+body {
+  text-align: center;
+  font-size: 34px;
+  color: #7f8e0b;
+  background-color: #9b0303;
+  font-family: 'Georgia', serif, monospace;
+}
+
+img {
+  width: 1000px;
+  border-radius: 10px;
+}
